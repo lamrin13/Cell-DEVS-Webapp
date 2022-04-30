@@ -1,0 +1,37 @@
+PCD++: A Tool to Implement n-Dimensional Cell-DEVS models
+Version 3.0 - March 2003
+Troccoli A., Rodriguez D., Wainer G., Barylko A., Beyoglonian J., Lopez A.
+-----------------------------------------------------------------------------
+PCD++ Extended States: An extended and improved version of CD++ for Cell-DEVS
+Version 4.1.2 - December 2018
+Santi L., Castro, R., PimÃ¡s, J.
+-----------------------------------------------------------------------------
+Discrete Event Simulation Lab
+Departamento de ComputaciÃ³n
+Facultad de Ciencias Exactas y Naturales
+Universidad de Buenos Aires, Argentina
+-----------------------------------------------------------------------------
+Compiled for standalone simulation
+
+
+Loading models from model.ma
+Loading events from 
+Running parallel simulation. Reading models partition from 
+Model partition details output to: /dev/null*
+Message log: messages.log
+Output to: /dev/null
+Tolerance set to: 1e-08
+Configuration to show real numbers: Width = 12 - Precision = 5
+Quantum: Not used
+Evaluate Debug Mode = OFF
+Flat Cell Debug Mode = OFF
+Debug Cell Rules Mode = OFF
+Temporary File created by Preprocessor = /tmp/filexQWV8K
+Printing parser information = OFF
+
+Stop at time: 00:00:10:000:0
+LP 0: initializing simulation objects
+LP 0: starting simulation (NoTime).
+At 00:00:00:100:0At 00:00:00:200:0At 00:00:00:300:0At 00:00:00:400:0At 00:00:00:500:0At 00:00:00:600:0At 00:00:00:700:0At 00:00:00:800:0At 00:00:00:900:0At 00:00:01:000:0At 00:00:01:100:0At 00:00:01:200:0At 00:00:01:300:0At 00:00:01:400:0At 00:00:01:500:0At 00:00:01:600:0At 00:00:01:700:0At 00:00:01:800:0At 00:00:01:900:0At 00:00:02:000:0At 00:00:02:100:0At 00:00:02:200:0At 00:00:02:300:0At 00:00:02:400:0At 00:00:02:500:0At 00:00:02:600:0At 00:00:02:700:0At 00:00:02:800:0At 00:00:02:900:0At 00:00:03:000:0At 00:00:03:100:0At 00:00:03:200:0At 00:00:03:300:0At 00:00:03:400:0At 00:00:03:500:0At 00:00:03:600:0At 00:00:03:700:0At 00:00:03:800:0At 00:00:03:900:0At 00:00:04:000:0At 00:00:04:100:0At 00:00:04:200:0At 00:00:04:300:0At 00:00:04:400:0At 00:00:04:500:0At 00:00:04:600:0At 00:00:04:700:0At 00:00:04:800:0At 00:00:04:900:0At 00:00:05:000:0At 00:00:05:100:0At 00:00:05:200:0At 00:00:05:300:0At 00:00:05:400:0At 00:00:05:500:0At 00:00:05:600:0At 00:00:05:700:0At 00:00:05:800:0At 00:00:05:900:0At 00:00:06:000:0At 00:00:06:100:0At 00:00:06:200:0At 00:00:06:300:0At 00:00:06:400:0At 00:00:06:500:0At 00:00:06:600:0At 00:00:06:700:0At 00:00:06:800:0At 00:00:06:900:0At 00:00:07:000:0At 00:00:07:100:0At 00:00:07:200:0At 00:00:07:300:0At 00:00:07:400:0At 00:00:07:500:0At 00:00:07:600:0At 00:00:07:700:0At 00:00:07:800:0At 00:00:07:900:0At 00:00:08:000:0At 00:00:08:100:0At 00:00:08:200:0At 00:00:08:300:0At 00:00:08:400:0At 00:00:08:500:0At 00:00:08:600:0At 00:00:08:700:0At 00:00:08:800:0At 00:00:08:900:0At 00:00:09:000:0At 00:00:09:100:0At 00:00:09:200:0At 00:00:09:300:0At 00:00:09:400:0At 00:00:09:500:0At 00:00:09:600:0At 00:00:09:700:0At 00:00:09:800:0At 00:00:09:900:0At 00:00:10:000:0Simulation complete!
+Simulation ended!
+LP 0 has finished simulation 
